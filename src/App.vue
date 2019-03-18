@@ -9,8 +9,9 @@
 </template>
 
 <style lang="scss">
-* {
-  padding: 0;
-  margin: 0;
+#app{
+
+  text-align: center;
+  margin-top:400px ;
 }
 </style>
